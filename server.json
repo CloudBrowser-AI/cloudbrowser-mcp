@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.cloudbrowser/mcp",
+  "title": "CloudBrowser",
+  "description": "Give AI agents a real cloud Chrome: open sessions, navigate, read pages, click, type and screenshot.",
+  "version": "0.1.15",
+  "websiteUrl": "https://cloudbrowser.ai/mcp",
+  "repository": {
+    "url": "https://github.com/CloudBrowser-AI/cloudbrowser-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://cloudbrowser.ai/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.cloudbrowser.ai"
+    }
+  ]
+}
