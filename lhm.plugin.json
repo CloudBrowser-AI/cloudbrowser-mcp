@@ -1,0 +1,17 @@
+{
+  "identifier": "cloudbrowser-mcp",
+  "name": "CloudBrowser",
+  "version": "0.1.15",
+  "description": "Give AI agents a real cloud Chrome: open sessions, navigate, read pages, click, type and screenshot.",
+  "author": "CloudBrowser.ai",
+  "authorUrl": "https://cloudbrowser.ai",
+  "homepage": "https://cloudbrowser.ai/mcp",
+  "cloudEndpoint": "https://mcp.cloudbrowser.ai",
+  "icon": "https://cloudbrowser.ai/favicon.svg",
+  "tags": [
+    "browser",
+    "automation",
+    "web-scraping",
+    "cloud-browser"
+  ]
+}
